@@ -7,11 +7,7 @@ I'm Lucie, a Master's student in Life Science Technologies 🌱 at [Aalto Univer
 - Analyzing cortisol and melatonin levels based on sleep and activity data: [Sleep-Analysis](https://github.com/lucienguyen/sleep-analysis-dhhb25)
 
 
-### My design works:
+
 Apart from study, graphic design is one of my fascination. See some of my work here and please take a look at my [Behance gallery](https://www.behance.net/lucienguyen5) for more 🥰.
-- Assets for the game Wizard of the Arts at Junction hackathon.
-
-- Social media graphic content for VSAF's (Vietnames Student's Association in Finland) activities.
-
 
 If you are interest in collaboration, please contact me through [my LinkedIn](https://www.linkedin.com/in/uyen-nguyen-lan/) or email.
